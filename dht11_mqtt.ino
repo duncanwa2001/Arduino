@@ -2,8 +2,8 @@
 #include <PubSubClient.h> //請先安裝PubSubClient程式庫
 #include <SimpleDHT.h>
 // ----------請修改以下參數---------------------------------
-char* ssid = "info_office";
-char* password = "info_551";
+char* ssid = "kuang_551";
+char* password = "95959595";
 //------ 以下修改成你DHT11腳位 ------
 int pinDHT11 = 4;//
 SimpleDHT11 dht11(pinDHT11);
