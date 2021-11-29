@@ -4,11 +4,8 @@
 #include <TridentTD_LineNotify.h>
 
 //----------請修改以下參數---------------------------------
-//char ssid[] = "PLKADAS";
-//char password[] = "12345678";
-
-char ssid[] = "info_office";
-char password[] = "info_551";
+char* ssid = "kuang_551";
+char* password = "95959595";
 String LINE_TOKEN = "ztNYlM9iMfGiTxdYD1NBUrk7ks4mumlPQJFvT2p0Udp";
 int pinDHT11 = 4;//DHT11 接在腳位GPIO4
 //---------------------------------------------------------
