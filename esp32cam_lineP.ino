@@ -11,8 +11,8 @@ void IRAM_ATTR resetModule(){
     esp_restart();
 }
 #include <TridentTD_LineNotify.h>
-#define SSID        "info_office"   //WiFi name
-#define PASSWORD    "info_551"   //PASSWORD
+#define SSID        "kuang_551"   //WiFi name
+#define PASSWORD    "95959595"   //PASSWORD
 #define LINE_TOKEN  "Cke21qCeLoIvWY5BNq6cBVAqQJg54SfnNvzF5EPpDF5"   
 
 // Pin definition for CAMERA_MODEL_AI_THINKER
